@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/hamilikk/.dotnet/store/|arch|/|tfm|",
-      "/home/hamilikk/.nuget/packages"
+      "C:\\Users\\Seren-10\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Seren-10\\.nuget\\packages"
     ]
   }
 }
